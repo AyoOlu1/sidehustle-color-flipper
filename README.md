@@ -10,4 +10,4 @@ This is a program that generates different colors as either color name, rgb or h
 ![](images/mobile-colorflipper.png)
 
 ## Live preview
-Click [here](https://oluwayemivictor-jscounter.netlify.app) to view the live site.
+Click [here](https://oluwayemivictor-color-flipper.netlify.app/) to view the live site.
