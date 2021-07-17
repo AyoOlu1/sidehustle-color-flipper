@@ -1,5 +1,5 @@
 # Side-hustle Internship Task 4 - Color flipper
-    This is a program that generates different colors as either color name, rgb or hex value as you click on the button.
+This is a program that generates different colors as either color name, rgb or hex value as you click on the button.
 
 ## Screenshot
 
